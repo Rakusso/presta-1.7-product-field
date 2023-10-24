@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>productfield</name>
+	<displayName><![CDATA[productfield]]></displayName>
+	<version><![CDATA[1.7.8]]></version>
+	<description><![CDATA[Produkt field for testing]]></description>
+	<author><![CDATA[Radke R]]></author>
+	<tab><![CDATA[others]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
